@@ -1,0 +1,20 @@
+*** Books ***
+
+====
+
+Cliff Stoll - The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage
+
+Really interesting on how Cliff Stoll tracked a hacker through his systems in the early days of the Internet. A must read for security professionals.
+
+Link on Amazon.ch: https://www.amazon.de/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787
+
+====
+
+
+*** News Articles ***
+
+====
+Wired about NotPetya: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
+
+... if you like good crime stories
+====
