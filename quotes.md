@@ -20,3 +20,10 @@ den Gefahren, die ihn umgeben, nichts ahnt!"
 nicht für das, was Sie in der Vergangenheit getan haben"
 
 "Jedes Geschäft braucht einen Optimisten und einen Pessimisten"
+
+
+# Robert Harris - Imperium
+
+"... ausserdem begehe ich den gleichen Fehler wie die Hagiografen, die mit dem verzerrenden Licht der Zukunft in das Dunkel der Vergangenheit leuchten"
+
+""Warum, Tiro, überspringst Du eine solch lange Periode in Ciceros Leben" \[...\] "Weil das glückliche Jahre waren, mein Freund, und was ist langweiliger, als von glücklichen Zeiten zu erzählen?""
