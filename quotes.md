@@ -27,3 +27,7 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 "... ausserdem begehe ich den gleichen Fehler wie die Hagiografen, die mit dem verzerrenden Licht der Zukunft in das Dunkel der Vergangenheit leuchten"
 
 ""Warum, Tiro, überspringst Du eine solch lange Periode in Ciceros Leben" \[...\] "Weil das glückliche Jahre waren, mein Freund, und was ist langweiliger, als von glücklichen Zeiten zu erzählen?""
+
+"Die Kunst des Lebens besteht darin, sich mit Problemen erst dann zu beschäftigen, wenn sie auftauchen, und seine Lebenslust nicht dadurch zu ruinieren, dass man sich schon weit im Voraus darüber den Kopf zerbricht." (Cicero)
+
+"Wer nicht weiss, was vor seiner Geburt geschehen ist, wird auf immer ein Kind bleiben. Was ist das menschliche Leben wert, wenn es nicht durch die Zeugnisse der Geschichte mit dem unserer Ahnen verwoben wird?" (Cicero)
