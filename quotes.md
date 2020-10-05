@@ -35,3 +35,9 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 # Martin Gries - Das Konsortium oder die ungenaue Zeit
 
 "Die Landschaft wurde nicht in lauen Sommernächten schroff und kantig. Es sind die Winter, die ihr Gesicht gekerbt haben."
+
+# Peter Riot - No Time to Lose. A Life in Pursuit of Deadly Viruses
+
+"As I heard in Seattle, "The first whale to surface is the first to be harpooned!""
+
+"I always pushed for ambitious goals, but I tried to avoid totally unrealistic ones, which can in fact be demoralizing instead of inspirational."
