@@ -41,3 +41,7 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 "As I heard in Seattle, "The first whale to surface is the first to be harpooned!""
 
 "I always pushed for ambitious goals, but I tried to avoid totally unrealistic ones, which can in fact be demoralizing instead of inspirational."
+
+# Justin Chen, Coming to Terms with Six Years in Science: Obsession, Isolation, and Moments of Wonder
+
+"You have to believe that Sisyphus was happy." 
