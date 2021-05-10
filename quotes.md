@@ -45,3 +45,7 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 # Justin Chen, Coming to Terms with Six Years in Science: Obsession, Isolation, and Moments of Wonder
 
 "You have to believe that Sisyphus was happy." 
+
+# Rachel Lance - In The Waves
+
+"Many people mistakenly believe that the only way for a design to be noteworthy is for it to be complex and "ahead of [its] time." For an engineer, a cleanly built machine that simply fulfills its purpose has a profound, inherent elegance and beauty. [...] Non-engineers tend to overlook these devices, ignoring them because they are not impressively elaborate, so it us easy to forget they exist."
