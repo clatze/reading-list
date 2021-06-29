@@ -42,10 +42,14 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 
 "I always pushed for ambitious goals, but I tried to avoid totally unrealistic ones, which can in fact be demoralizing instead of inspirational."
 
-# Justin Chen, Coming to Terms with Six Years in Science: Obsession, Isolation, and Moments of Wonder
+# Justin Chen - Coming to Terms with Six Years in Science: Obsession, Isolation, and Moments of Wonder
 
 "You have to believe that Sisyphus was happy." 
 
 # Rachel Lance - In The Waves
 
 "Many people mistakenly believe that the only way for a design to be noteworthy is for it to be complex and "ahead of [its] time." For an engineer, a cleanly built machine that simply fulfills its purpose has a profound, inherent elegance and beauty. [...] Non-engineers tend to overlook these devices, ignoring them because they are not impressively elaborate, so it us easy to forget they exist."
+
+# Marianne Bellotti - kill it with fire - manage aging computer systems (and future proof modern ones)
+
+"...progress in technology is not linear. It's cyclical. We advance, but we advance slowly, while moving tangentially. We ababfon patterns only to reinvent them later and sell them as completely new."
