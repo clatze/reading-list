@@ -52,4 +52,4 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 
 # Marianne Bellotti - kill it with fire - manage aging computer systems (and future proof modern ones)
 
-"...progress in technology is not linear. It's cyclical. We advance, but we advance slowly, while moving tangentially. We ababfon patterns only to reinvent them later and sell them as completely new."
+"...progress in technology is not linear. It's cyclical. We advance, but we advance slowly, while moving tangentially. We abandon patterns only to reinvent them later and sell them as completely new."
