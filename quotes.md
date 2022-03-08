@@ -53,3 +53,7 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 # Marianne Bellotti - kill it with fire - manage aging computer systems (and future proof modern ones)
 
 "...progress in technology is not linear. It's cyclical. We advance, but we advance slowly, while moving tangentially. We abandon patterns only to reinvent them later and sell them as completely new."
+
+# Giovannino Guareschi - Don Camillo und seine Herde
+
+"Ich habe es nie im Leben bereut, morgen getan zu haben, was ich heute hätte tun können."
