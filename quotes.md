@@ -57,3 +57,7 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 # Giovannino Guareschi - Don Camillo und seine Herde
 
 "Ich habe es nie im Leben bereut, morgen getan zu haben, was ich heute hätte tun können."
+
+# Raoul Schrott - Eine Geschichte des Windes oder von dem deutschen Kanonier der erstmals die Welt umrundete und dann ein zweites und ein drittes Mal
+
+"Man hat den Wind selten im Rücken. Oft kommt er gar von vorn, zumeist jedoch von der Seite - um einen damit vom Kurs abzubringen: er stellt eine Widrigkeit dar, welcher man, wie vieles im Leben, trotzdem Fahrt abgewinnen muss."
