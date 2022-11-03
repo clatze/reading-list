@@ -61,3 +61,5 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 # Raoul Schrott - Eine Geschichte des Windes oder von dem deutschen Kanonier der erstmals die Welt umrundete und dann ein zweites und ein drittes Mal
 
 "Man hat den Wind selten im Rücken. Oft kommt er gar von vorn, zumeist jedoch von der Seite - um einen damit vom Kurs abzubringen: er stellt eine Widrigkeit dar, welcher man, wie vieles im Leben, trotzdem Fahrt abgewinnen muss."
+
+"Und so ging es weiter, was nicht weiter erzählt zu werden braucht, da vom Glück zu lesen schnell langweilt; das Missglücken macht stets die besseren Geschichten."
