@@ -67,3 +67,7 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 # Magical Mystery oder: Die Rückkehr des Karl Schmidt (Film)
 
 "Ein Tag, der mit Tiere füttern anfängt, ist auf jeden Fall kein verlorener Tag"
+
+# Bob Ross
+
+"We don't make mistakes - we have happy accidents"
