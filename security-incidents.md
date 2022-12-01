@@ -10,3 +10,7 @@
 # Attacks on PW Manager
 
 * https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/
+
+# Fun Stuff
+
+* https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/
