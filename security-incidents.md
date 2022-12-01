@@ -14,3 +14,7 @@
 # Fun Stuff
 
 * https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/
+
+# Fines
+
+* [French Electricity Provider Fined for Storing Users' Passwords with Weak MD5 Algorithm](https://thehackernews.com/2022/11/french-electricity-provider-fined-for.html)
