@@ -26,3 +26,7 @@
 # Misc
 
 * [Stadt Potsdam vorsorglich offline](https://www.spiegel.de/netzwelt/web/stadt-potsdam-bleibt-nach-hackerangriff-weiter-offline-a-92405c8e-8b61-4a18-9ec9-95ed44069bb8)
+
+# History
+
+* https://www.computerworld.ch/security/business-it/hysterie-um-michelangelo-virus-2821636.html
