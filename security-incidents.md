@@ -22,3 +22,7 @@
 # Successful attacks caused by outdated software
 
 * https://www.bleepingcomputer.com/news/technology/rackspace-ongoing-exchange-outage-caused-by-security-incident/ (2022)
+
+# Misc
+
+* [Stadt Potsdam vorsorglich offline](https://www.spiegel.de/netzwelt/web/stadt-potsdam-bleibt-nach-hackerangriff-weiter-offline-a-92405c8e-8b61-4a18-9ec9-95ed44069bb8)
