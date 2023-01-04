@@ -27,6 +27,7 @@
 
 * [Stadt Potsdam vorsorglich offline](https://www.spiegel.de/netzwelt/web/stadt-potsdam-bleibt-nach-hackerangriff-weiter-offline-a-92405c8e-8b61-4a18-9ec9-95ed44069bb8)
 * https://podcast.datenschutzpartner.ch/30-e-mail-zustellung-beweis-stefan-bauer
+* https://www.golem.de/news/bmw-mercedes-kia-porsche-sicherheitsforscher-hacken-etliche-autohersteller-2301-170901.html
 
 # History
 
