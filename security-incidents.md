@@ -11,6 +11,10 @@
 
 * https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/
 
+# Permissions and Access
+
+* https://thehackernews.com/2023/01/why-do-user-permissions-matter-for-saas.html
+
 # Fun Stuff
 
 * https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/ (2022)
