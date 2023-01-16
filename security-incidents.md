@@ -7,6 +7,10 @@
 * https://haveibeenpwned.com/PwnedWebsites#Soundwave
 * https://haveibeenpwned.com/PwnedWebsites#Elanic
 
+# Detailed Reports on successful attacks
+
+* [DigiNotar](https://www.researchgate.net/publication/269333601_Black_Tulip_Report_of_the_investigation_into_the_DigiNotar_Certificate_Authority_breach)
+
 # Attacks on PW Manager
 
 * https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/
