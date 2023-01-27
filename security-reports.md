@@ -22,3 +22,18 @@
 * majority of stakeholders uses cloud for internal tools like office suites, internal communication and HR
 * half of the stakeholders use them for public services offered to the citizen
 * most commonly used CSPs: Microsoft, Amazon, Citrix, IBM, OVH, Fujitsu, Oracle, Adobe, Google
+* DPIA = Data Protection Impact Assessment; only conducted by about a third up to a half of the stakeholders prior to purchasing CSP services -> potential violation of the GDPR
+* almost half of the stakeholders monitor compliance
+* Challenges with CSPs
+  * lack of contract
+  * difficulties to negotiate a contract
+    * The CSP is way too powerful and does only offer standard contracts
+  * international transfers & access by foreign governments
+    * Very often, data is unintentionally transfered into countries not compliant with the GDPR
+  * processing of telemetry data
+  * auditing
+    * basically never done, CSPs usually even forbid audits
+  * no control over subprocessors
+    * no meaningful right to object
+    * no exit strategy 
+* towards the end of the reports, a lot of examples are given in different EU countries, where the use of CSP was stopped. we have to see where this leads us....
