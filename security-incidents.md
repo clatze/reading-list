@@ -37,6 +37,7 @@
 * https://podcast.datenschutzpartner.ch/30-e-mail-zustellung-beweis-stefan-bauer
 * https://www.golem.de/news/bmw-mercedes-kia-porsche-sicherheitsforscher-hacken-etliche-autohersteller-2301-170901.html
 * https://www.securityweek.com/ransomware-attack-dnv-ship-management-software-impacts-1000-vessels
+* [Config Update caused M365 Outage](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-caused-by-wan-router-ip-change/)
 
 # History
 
