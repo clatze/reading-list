@@ -14,19 +14,19 @@
 # Attacks on PW Manager
 
 * https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/ (PDF/lastpass-hack.pdf)
-* https://nakedsecurity.sophos.com/2023/02/01/password-stealing-vulnerability-reported-in-keypass-bug-or-feature/ (PDF/keepass-vuln.pdf)
+* https://nakedsecurity.sophos.com/2023/02/01/password-stealing-vulnerability-reported-in-keypass-bug-or-feature/ (2022) (PDF/keepass-vuln.pdf)
 
 # Permissions and Access
 
-* https://thehackernews.com/2023/01/why-do-user-permissions-matter-for-saas.html
+* https://thehackernews.com/2023/01/why-do-user-permissions-matter-for-saas.html (PDF/permissions-SaaS.pdf)
 
 # Fun Stuff
 
-* https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/ (2022)
+* https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/ (2022) (PDF/ddos-takedown-by-acc.pdf)
 
 # Fines
 
-* [French Electricity Provider Fined for Storing Users' Passwords with Weak MD5 Algorithm](https://thehackernews.com/2022/11/french-electricity-provider-fined-for.html) (2022)
+* [French Electricity Provider Fined for Storing Users' Passwords with Weak MD5 Algorithm](https://thehackernews.com/2022/11/french-electricity-provider-fined-for.html) (2022) (PDF/fines-for-weak-md5.pdf)
 
 # Successful attacks caused by outdated software
 
