@@ -2,10 +2,10 @@
 
 # Data Breaches in Test Environments
 
-* https://www.enterprisetimes.co.uk/2018/04/05/shutterfly-reacts-to-data-breach/
+* https://www.enterprisetimes.co.uk/2018/04/05/shutterfly-reacts-to-data-breach/ (PDF/Shutterfly-attack.pdf)
 * https://www.bbc.com/news/technology-36247189 (PDF/Kiddicare customer data stolen from test website - BBC News.pdf)
-* https://haveibeenpwned.com/PwnedWebsites#Soundwave
-* https://haveibeenpwned.com/PwnedWebsites#Elanic
+* https://haveibeenpwned.com/PwnedWebsites#Soundwave (PDF/Soundwave.PNG)
+* https://haveibeenpwned.com/PwnedWebsites#Elanic (PDF/elanic.PNG)
 
 # Detailed Reports on successful attacks
 
