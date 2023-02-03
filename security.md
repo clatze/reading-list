@@ -18,12 +18,12 @@ Really interesting on how Cliff Stoll tracked a hacker through his systems in th
 
 ## Wired about NotPetya
 
-[Link](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/)
+[Link](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/) (PDF/wired-notpetya.pdf)
 
 ... if you like good crime stories
 
 ## Wired about ContiLeak
 
-[Link](https://www.wired.com/story/conti-leaks-ransomware-work-life/)
+[Link](https://www.wired.com/story/conti-leaks-ransomware-work-life/) (PDF/contileaks.pdf)
 
 ... if you always wanted to know how a ransomware group works internally
