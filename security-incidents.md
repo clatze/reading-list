@@ -9,7 +9,7 @@
 
 # Detailed Reports on successful attacks
 
-* [DigiNotar](https://www.researchgate.net/publication/269333601_Black_Tulip_Report_of_the_investigation_into_the_DigiNotar_Certificate_Authority_breach)
+* [DigiNotar](https://www.researchgate.net/publication/269333601_Black_Tulip_Report_of_the_investigation_into_the_DigiNotar_Certificate_Authority_breach) (PDF/BlackTulip_InvestigationontheDigiNotarHack.pdf)
 
 # Attacks on PW Manager
 
