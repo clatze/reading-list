@@ -13,7 +13,8 @@
 
 # Attacks on PW Manager
 
-* https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/
+* https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/ (PDF/lastpass-hack.pdf)
+* https://nakedsecurity.sophos.com/2023/02/01/password-stealing-vulnerability-reported-in-keypass-bug-or-feature/ (PDF/keepass-vuln.pdf)
 
 # Permissions and Access
 
