@@ -30,12 +30,12 @@
 
 # Successful attacks caused by outdated software
 
-* https://www.bleepingcomputer.com/news/technology/rackspace-ongoing-exchange-outage-caused-by-security-incident/ (2022)
+* https://www.bleepingcomputer.com/news/technology/rackspace-ongoing-exchange-outage-caused-by-security-incident/ (2022) (PDF/rackspace-outdated-exchange.pdf)
 
 # Misc
 
-* [Stadt Potsdam vorsorglich offline](https://www.spiegel.de/netzwelt/web/stadt-potsdam-bleibt-nach-hackerangriff-weiter-offline-a-92405c8e-8b61-4a18-9ec9-95ed44069bb8)
-* https://podcast.datenschutzpartner.ch/30-e-mail-zustellung-beweis-stefan-bauer
+* [Stadt Potsdam vorsorglich offline](https://www.spiegel.de/netzwelt/web/stadt-potsdam-bleibt-nach-hackerangriff-weiter-offline-a-92405c8e-8b61-4a18-9ec9-95ed44069bb8) (PDF/potsdam-offline.pdf)
+* https://podcast.datenschutzpartner.ch/30-e-mail-zustellung-beweis-stefan-bauer (PDF/podcast-sichere-email-zustellung.mp3)
 * https://www.golem.de/news/bmw-mercedes-kia-porsche-sicherheitsforscher-hacken-etliche-autohersteller-2301-170901.html
 * https://www.securityweek.com/ransomware-attack-dnv-ship-management-software-impacts-1000-vessels
 * [Config Update caused M365 Outage](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-caused-by-wan-router-ip-change/)
