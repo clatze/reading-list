@@ -20,6 +20,10 @@
 
 * https://thehackernews.com/2023/01/why-do-user-permissions-matter-for-saas.html (PDF/permissions-SaaS.pdf)
 
+# Successful attacks by Phishing
+
+* [Low Tech attack on GoDaddy](https://krebsonsecurity.com/2023/02/when-low-tech-hacks-cause-high-impact-breaches/) (PDF/phishingGoDaddy.pdf)
+
 # Fun Stuff
 
 * https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/ (2022) (PDF/ddos-takedown-by-acc.pdf)
