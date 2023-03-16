@@ -71,3 +71,23 @@ nicht für das, was Sie in der Vergangenheit getan haben"
 # Bob Ross
 
 "We don't make mistakes - we have happy accidents"
+
+# Kai Meyer - Die Seiten der Welt
+
+"Moral mochte eine Sache der Erziehung sein, der Verstoss dagegen eher eine Frage der Gewöhnung"
+
+# Johnny Cash - Farmers Alamanac
+
+"Lies have to be covered up, truth can run around naked"
+
+# Hans Fallada - Wer einmal aus dem Blechnapf frisst
+
+"Ich verlang mein Recht", beharrt Kufalt. "Deswegen sind Sie eben dumm", stellt der Wachtmeister fest.
+
+# Ehm Welk - Die Heiden von Kummerow
+
+Denn die Liebe für Abzeichen ist keineswegs auf die Bewohner der Städte und auf die höheren Lebensalter beschränkt; sie befällt vielmehr besonders leicht ganz junge Menschen.
+
+Wieder war ein Glaube in Erfahrungen ertrunken
+
+Er war sonst ein besserer Erzieher als in diesem Augenblick, doch es ist nun mal so, wir vergewaltigen lieber eine grosse, bessere Erkenntnis, als dasa wir eine kleine Unwahrhaftigkeit zugeben. Es ist im Grunde so, als schnitten wir, um ein kleines Loch vorn im Rock zu flicken, ein grösseres aus dem Rücken heraus und vergässen darüber ganz, dass wir nun gezwungen sind, dauernd rückwärts zu gehen."
