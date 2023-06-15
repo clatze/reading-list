@@ -39,3 +39,14 @@
     * no meaningful right to object
     * no exit strategy 
 * towards the end of the reports, a lot of examples are given in different EU countries, where the use of CSP was stopped. we have to see where this leads us....
+
+# Datenschutzbericht Kt. ZH 2022
+
+* Source: https://www.datenschutz.ch/tb/2022
+* die Polizei benötigt viele Vorabkontrollen bei beschränkter Verfügbarkeit der kantonalen Datenschützer; Lösung: Datenschutzfolgeabschätzungen zu jedem Vorhaben
+* Cloud und M365 ist aufgrund Cloud Act etc alles andere als unkritisch und auch mit Wahrscheinlichkeitsberechnungen nicht zu lösen. Es braucht saubere Datenschutzfolgeabschätzungen
+* "Die Datenbearbeitung gestützt auf die Einwilligung der betroffenen Person ist nicht mit dem verfassungsrechtlichen Legalitätsprinzip vereinbar. Öffentliche Organe benötigen für ihr Handeln eine Rechtsgrundlage."
+* immer wieder wird der Einsatz von Google Maps bemängelt
+* "Anonymisierte oder pseudonymisierte Daten können unverschlüsselt ausgelagert werden. Bei pseudonymisierten Daten dürfen der Cloud-Anbieter oder andere mögliche Empfängerinnen und Empfänger keinen Zugang zum Schlüssel der Pseudonymisierung haben. Sie dürfen auch nicht über andere Kenntnisse verfügen, um die Daten wieder einer bestimmten Person zuordnen zu können."
+* https://lerne.datenschutz.ch/
+* https://www.datenschutzlernen.ch/ Lehrmittel für Kinder ab 4
