@@ -23,6 +23,7 @@
 # Successful attacks by Phishing
 
 * [Low Tech attack on GoDaddy](https://krebsonsecurity.com/2023/02/when-low-tech-hacks-cause-high-impact-breaches/) (PDF/phishingGoDaddy.pdf)
+* [New Employee Mail](https://blog.checkpoint.com/research/looking-new-employee-beware-new-ransomware-campaign/) (2017) (PDF/Looking for a New Employee Beware of a New Ransomware Campaign - Check Point Blog.pdf)
 
 # Fun Stuff
 
