@@ -20,10 +20,11 @@
 
 * https://thehackernews.com/2023/01/why-do-user-permissions-matter-for-saas.html (PDF/permissions-SaaS.pdf)
 
-# Successful attacks by Phishing
+# Successful attacks by Phishing / Social Engineering
 
 * [Low Tech attack on GoDaddy](https://krebsonsecurity.com/2023/02/when-low-tech-hacks-cause-high-impact-breaches/) (PDF/phishingGoDaddy.pdf)
 * [New Employee Mail](https://blog.checkpoint.com/research/looking-new-employee-beware-new-ransomware-campaign/) (2017) (PDF/Looking for a New Employee Beware of a New Ransomware Campaign - Check Point Blog.pdf)
+* https://www.heise.de/news/Auf-Phishing-reingefallen-Landesministerium-ueberweist-Kriminellen-225-000-Euro-9209280.html?wt_mc=rss.red.security.security.atom.beitrag.beitrag (2023) (PDF/Druckversion - Auf E-Mail reingefallen Landesministerium überweist Kriminellen 225.000 Euro heise online.pdf)
 
 # Fun Stuff
 
