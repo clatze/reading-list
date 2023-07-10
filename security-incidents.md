@@ -47,6 +47,8 @@
 * [Config Update caused M365 Outage](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-caused-by-wan-router-ip-change/) (2023) (PDF/m365-outtage-configupdate.pdf)
 * [KKH in Konkurs aufgrund Cyberangriff](https://www.heise.de/news/US-Krankenhaus-schliesst-erstmals-wegen-eines-Ransomware-Angriffs-9186812.html) (2023) (PDF/2023-06-14-KKH-Konkurs.pdf)
 * [Velohersteller Konkurs aufgrund Cyberangriff](https://www.heise.de/news/Fahrradbauer-Prophete-Erste-Details-zum-Cyber-Angriff-7457031.html) (2023) (PDF/2023-01-Konkurs-Velohersteller.pdf)
+* [Preise im Darknet](https://www.inside-it.ch/was-ein-reisepass-im-darknet-kostet-20230707) (2023) (PDF/2023-Darknet-Preise.pdf)
+
  
 # History
 
