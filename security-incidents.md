@@ -10,6 +10,7 @@
 # Detailed Reports on successful attacks
 
 * [DigiNotar](https://www.researchgate.net/publication/269333601_Black_Tulip_Report_of_the_investigation_into_the_DigiNotar_Certificate_Authority_breach) (PDF/BlackTulip_InvestigationontheDigiNotarHack.pdf)
+* https://www.microsoft.com/en-us/security/blog/2023/07/06/the-five-day-job-a-blackbyte-ransomware-intrusion-case-study/ (2023) (PDF/2023-5d-job.pdf)
 
 # Attacks on PW Manager
 
