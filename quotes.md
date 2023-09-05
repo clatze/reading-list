@@ -91,3 +91,7 @@ Denn die Liebe für Abzeichen ist keineswegs auf die Bewohner der Städte und au
 Wieder war ein Glaube in Erfahrungen ertrunken
 
 Er war sonst ein besserer Erzieher als in diesem Augenblick, doch es ist nun mal so, wir vergewaltigen lieber eine grosse, bessere Erkenntnis, als dass wir eine kleine Unwahrhaftigkeit zugeben. Es ist im Grunde so, als schnitten wir, um ein kleines Loch vorn im Rock zu flicken, ein grösseres aus dem Rücken heraus und vergässen darüber ganz, dass wir nun gezwungen sind, dauernd rückwärts zu gehen."
+
+# Quer
+
+Versteht man unsere Zivilisation als witzige Einlage in der Geschichte der Zeit, dann ist sie gar nicht so schlecht.
