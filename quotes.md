@@ -95,3 +95,7 @@ Er war sonst ein besserer Erzieher als in diesem Augenblick, doch es ist nun mal
 # Quer
 
 Versteht man unsere Zivilisation als witzige Einlage in der Geschichte der Zeit, dann ist sie gar nicht so schlecht.
+
+# Sandra Lüpkes - Das Licht im Rücken
+
+Es gibt Lob für zittrig gepinselte Bilder, für krächzend gesungene Lieder und für Skulpturen, die - mit viel gutem Willen - aussehen wie angebrannter Bohneneintopf. Wenn Elsie eines gelernt hat an diesem reformpädagogischen Internat, [...], dann, lobenden Worten gründlich zu misstrauen
