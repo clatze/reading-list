@@ -51,6 +51,7 @@
 * [KKH in Konkurs aufgrund Cyberangriff](https://www.heise.de/news/US-Krankenhaus-schliesst-erstmals-wegen-eines-Ransomware-Angriffs-9186812.html) (2023) (PDF/2023-06-14-KKH-Konkurs.pdf)
 * [Velohersteller Konkurs aufgrund Cyberangriff](https://www.heise.de/news/Fahrradbauer-Prophete-Erste-Details-zum-Cyber-Angriff-7457031.html) (2023) (PDF/2023-01-Konkurs-Velohersteller.pdf)
 * [Preise im Darknet](https://www.inside-it.ch/was-ein-reisepass-im-darknet-kostet-20230707) (2023) (PDF/2023-Darknet-Preise.pdf)
+* [Ransomware Angriff auf Erziehungsdep. Basel](https://www.swisscom.ch/de/business/enterprise/themen/security/ransomware-communication-incident-response.html) (2023) (PDF/2023-Ransomware-Basel.pdf - ohne Video)
 
  
 # History
