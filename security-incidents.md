@@ -6,6 +6,7 @@
 * https://www.bbc.com/news/technology-36247189 (PDF/Kiddicare customer data stolen from test website - BBC News.pdf)
 * https://haveibeenpwned.com/PwnedWebsites#Soundwave (PDF/Soundwave.PNG)
 * https://haveibeenpwned.com/PwnedWebsites#Elanic (PDF/elanic.PNG)
+* https://www.heise.de/news/Fehlende-MFA-Standardpasswort-So-lief-der-Angriff-auf-die-MS-Securityabteilung-9610189.html (PDF/ms2024.pdf) (2024)
 
 # Detailed Reports on successful attacks
 
