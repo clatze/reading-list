@@ -96,6 +96,26 @@ Er war sonst ein besserer Erzieher als in diesem Augenblick, doch es ist nun mal
 
 Versteht man unsere Zivilisation als witzige Einlage in der Geschichte der Zeit, dann ist sie gar nicht so schlecht.
 
+# Bossetti Night
+
+wenn alle verantwortlich sind, ist keiner verantwortlich
+
+# Mark Twain - Unterwegs mit den Arglosen
+
+Anstand hat mich seit jeher daran gehindert, im Leben weiterzukommen.
+
 # Sandra Lüpkes - Das Licht im Rücken
 
 Es gibt Lob für zittrig gepinselte Bilder, für krächzend gesungene Lieder und für Skulpturen, die - mit viel gutem Willen - aussehen wie angebrannter Bohneneintopf. Wenn Elsie eines gelernt hat an diesem reformpädagogischen Internat, [...], dann, lobenden Worten gründlich zu misstrauen
+
+# Andy Shepherd - Wenn Drachen sich kringelig lachen
+
+Es ist immer genug Zeit, um stehen zu bleiben und an einer Rose zu riechen
+
+# Peter v. Brett - Das Lied der Dunkelheit
+
+Man ist kein Held, wenn man sich in einen Kampf stürzt, den man nicht gewinnen kann.
+
+# Felix Salten - Bambi
+
+"Das ist langweilig und gefährlich, so lange auf einem Flecke zu bleiben" [...] "Man muss sich bewegen!", rief es fröhlich herüber. "Wenn man sicher leben und satt werden will, muss man sich bewegen!"
