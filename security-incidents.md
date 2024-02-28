@@ -30,6 +30,7 @@
 * https://www.heise.de/news/Vishing-Betrueger-arbeiten-mit-raffinierter-Voice-Phishing-Masche-9212374.html (2023) (PDF/2023-07-12-Lets-Call-Vishing.pdf)
 * https://www.bleepingcomputer.com/news/security/russian-state-hackers-lure-western-diplomats-with-bmw-car-ads/ (2023) (PDF/2023-07-13-Diplomats-BMW.pdf)
 
+
 # Fun Stuff
 
 * https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/ (2022) (PDF/ddos-takedown-by-acc.pdf)
@@ -54,6 +55,7 @@
 * [Preise im Darknet](https://www.inside-it.ch/was-ein-reisepass-im-darknet-kostet-20230707) (2023) (PDF/2023-Darknet-Preise.pdf)
 * [Ransomware Angriff auf Erziehungsdep. Basel](https://www.swisscom.ch/de/business/enterprise/themen/security/ransomware-communication-incident-response.html) (2023) (PDF/2023-Ransomware-Basel.pdf - ohne Video)
 * [Ransomware Attack on Finnish Hosting Provider](https://www.bleepingcomputer.com/news/security/tietoevry-ransomware-attack-causes-outages-for-swedish-firms-cities/) (2024) (PDF/2024-01-22-tietoevry.pdf)
+* [Phishing as a Service Plattform for banks](https://www.bleepingcomputer.com/news/security/labhost-cybercrime-service-lets-anyone-phish-canadian-bank-users/) (2024) (PDF/2024-02-28-phaas.pdf)
 
  
 # History
