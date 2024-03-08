@@ -119,3 +119,7 @@ Man ist kein Held, wenn man sich in einen Kampf stürzt, den man nicht gewinnen 
 # Felix Salten - Bambi
 
 "Das ist langweilig und gefährlich, so lange auf einem Flecke zu bleiben" [...] "Man muss sich bewegen!", rief es fröhlich herüber. "Wenn man sicher leben und satt werden will, muss man sich bewegen!"
+
+# Mark Twain - Unterwegs mit den Arglosen
+
+Ich bin jedoch froh, ihn \[den Vesuv\] besucht zu haben - zum Teil, weil es der Mühe wert war, aber hauptsächlich, weil ich es nie wieder tun muss.
