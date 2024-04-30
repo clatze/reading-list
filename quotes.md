@@ -104,6 +104,8 @@ wenn alle verantwortlich sind, ist keiner verantwortlich
 
 Anstand hat mich seit jeher daran gehindert, im Leben weiterzukommen.
 
+Ich bin jedoch froh, ihn \[den Vesuv\] besucht zu haben - zum Teil, weil es der Mühe wert war, aber hauptsächlich, weil ich es nie wieder tun muss.
+
 # Sandra Lüpkes - Das Licht im Rücken
 
 Es gibt Lob für zittrig gepinselte Bilder, für krächzend gesungene Lieder und für Skulpturen, die - mit viel gutem Willen - aussehen wie angebrannter Bohneneintopf. Wenn Elsie eines gelernt hat an diesem reformpädagogischen Internat, [...], dann, lobenden Worten gründlich zu misstrauen
@@ -120,6 +122,4 @@ Man ist kein Held, wenn man sich in einen Kampf stürzt, den man nicht gewinnen 
 
 "Das ist langweilig und gefährlich, so lange auf einem Flecke zu bleiben" [...] "Man muss sich bewegen!", rief es fröhlich herüber. "Wenn man sicher leben und satt werden will, muss man sich bewegen!"
 
-# Mark Twain - Unterwegs mit den Arglosen
 
-Ich bin jedoch froh, ihn \[den Vesuv\] besucht zu haben - zum Teil, weil es der Mühe wert war, aber hauptsächlich, weil ich es nie wieder tun muss.
