@@ -42,6 +42,7 @@
 # Successful attacks caused by outdated software
 
 * https://www.bleepingcomputer.com/news/technology/rackspace-ongoing-exchange-outage-caused-by-security-incident/ (2022) (PDF/rackspace-outdated-exchange.pdf)
+* Outdated DNS etc: https://arstechnica.com/security/2024/09/rogue-whois-server-gives-researcher-superpowers-no-one-should-ever-have/ (2024) (PDF/Rogue WHOIS server gives researcher superpowers no one should ever have _ Ars Technica.pdf)
 
 # Misc
 
