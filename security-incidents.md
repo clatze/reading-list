@@ -7,6 +7,7 @@
 * https://haveibeenpwned.com/PwnedWebsites#Soundwave (PDF/Soundwave.PNG)
 * https://haveibeenpwned.com/PwnedWebsites#Elanic (PDF/elanic.PNG)
 * https://www.heise.de/news/Fehlende-MFA-Standardpasswort-So-lief-der-Angriff-auf-die-MS-Securityabteilung-9610189.html (PDF/ms2024.pdf) (2024)
+* https://www.inside-it.ch/schweizer-personalvermittler-ergreift-massnahmen-nach-datenleck-20241014 (PDF to follow) (2024)
 
 # Detailed Reports on successful attacks
 
