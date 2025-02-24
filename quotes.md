@@ -122,4 +122,16 @@ Man ist kein Held, wenn man sich in einen Kampf stürzt, den man nicht gewinnen 
 
 "Das ist langweilig und gefährlich, so lange auf einem Flecke zu bleiben" [...] "Man muss sich bewegen!", rief es fröhlich herüber. "Wenn man sicher leben und satt werden will, muss man sich bewegen!"
 
+# Movie Elona Holmes
+
+Fakten lenken nicht zwangsweise von der Hoffnung ab.
+
+# Ernest Shackleton
+
+lonelyness is the penalty of leadership
+
+# Elisabeth Beer - Die Bücherjägerin
+
+Nur weil man Routinen mag, muss das noch lange nicht heissen, dass die Routinen selbst so öde und traurig sein müssen wie ein Job beim Finanzamt.
+
 
